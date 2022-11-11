@@ -1,0 +1,73 @@
+.all {
+    width: 1400px;
+    height: 800px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.sedans {
+    width:160px;
+    height: 320px;
+    background-color: hsl(31, 77%, 52%);
+    padding: 40px;
+    color: hsl(0, 0%, 95%);
+    display: flex;
+    justify-content: center;
+    border-radius: 10px 0 0 10px;
+}
+.suvs {
+    width:160px;
+    height: 320px;
+    background-color: hsl(184, 100%, 22%);
+    padding: 40px;
+    color:  hsl(0, 0%, 95%);
+    display: flex;
+    justify-content: center;
+}
+.lux {
+    width: 160px;
+    height: 320px;
+    background-color:hsl(179, 100%, 13%);
+    padding: 40px;
+    color: hsl(0, 0%, 95%);
+    display: flex;
+    justify-content: center;
+    border-radius: 0 10px 10px 0;
+
+}
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+p{
+   
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 10px;
+    word-spacing: 2px;
+}
+.button {
+    width: 100px;
+    height: 35px;
+    background-color:hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 80px;
+    border-radius: 20px;
+    display: grid;
+    place-content: center;
+} 
+.lux .button {
+    color:hsl(179, 100%, 13%);
+}
+.suvs .button {
+    color: hsl(184, 100%, 22%);
+}
+.sedans .button{
+    color: hsl(31, 77%, 52%);
+}
