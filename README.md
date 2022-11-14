@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the 3-column preview card component coding challenge](![desktop-preview](https://user-images.githubusercontent.com/106330123/201696708-743947f0-f6d5-4f45-a525-030872709722.jpg))
 
 ## Welcome! 👋
 
