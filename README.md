@@ -57,7 +57,7 @@ You can host your site using one of these solutions or any of our other trusted 
 
 ## Create a custom `README.md`
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](C:\Users\USER\Downloads\3-column-preview-card-component-main\3-column-preview-card-component-main\README-template.md) file in this starter code.
+We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`][README-template.md](https://github.com/TopeGramms/3-column-card/files/10004582/README-template.md) file in this starter code.
 
 The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
 
